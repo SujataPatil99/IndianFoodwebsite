@@ -1,0 +1,59 @@
+body
+{
+	background-color:#FFF8e1;
+	font-family:Arial,sans-serif;
+	padding:0;
+	margin:0;
+
+}
+
+header
+{
+
+	background-color:#FF9933;
+	color:white;
+	text-align:center;
+	padding:20px;
+}
+header h1
+{
+
+	font-size:40px;
+}
+header p
+{
+	font-size:20px;
+}
+nav ul
+{
+	background-color:#66B2FF;
+	list-style:none;
+	color:white;
+	text-align:center;
+	padding:20px;
+	display:flex;
+	justify-content:center;
+	
+}
+
+nav ul li a
+{
+	text-decoration:none;
+	margin:20px;
+	color:#000;
+	
+}
+
+section
+{
+
+	padding:20px;
+}
+footer
+{
+
+	background-color:#E5CCFF;
+	color:black;
+	text-align:center;
+	padding:20px;
+}
